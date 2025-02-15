@@ -1,8 +1,8 @@
 # Hi! I'm Chris 
 #### I'm a former member of the UCSC Genome Browser, Invitian (Invitae) 🧬 and current code tinkerer 💻.
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cjvillar&show_icons=true&theme=cobalt)
+
 ####
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjvillar&layout=compact&theme=cobalt)-->
+
 
 <!--
 **cjvillar/cjvillar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
